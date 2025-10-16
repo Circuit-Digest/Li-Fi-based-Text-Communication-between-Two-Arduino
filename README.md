@@ -250,7 +250,7 @@ This project is for educational purposes. Please refer to the original tutorial 
 
 ## Support
 
-For questions and discussions, visit the [Circuit Digest Forums](https://circuitdigest.com/forum)
+For questions and discussions, visit the [Circuit Digest Forum](https://circuitdigest.com/forum)
 
 ---
 
